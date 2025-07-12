@@ -15,7 +15,7 @@
 ---
 ## ⚙️ Step 1: Add Your GCP Config
 
-Edit the existing `app/config.yaml` with your GCP project info:
+Edit the existing `config.yaml` with your GCP project info:
 
 ```yaml
 project_id: "your-gcp-project-id"
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### ▶️ Start the FastAPI Backend
 
 ```bash
-python3 app/api.py
+python3 api.py
 ```
 
 API docs will be available at:
