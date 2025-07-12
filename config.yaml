@@ -1,0 +1,4 @@
+project_id: "your-gcp-project-id"
+location: us-central1
+gemini_model_name: gemini-2.5-flash
+image_generation_model_name: imagen-4.0-generate-preview-06-06
