@@ -78,7 +78,7 @@ curl -X 'POST' \
 ```
 ### 🧠 Sample  Output Visual
 
-![Graph Flow](images/indian_currency.png)
+![Sample Ouput](Images/indian_currency.png)
 
 ---
 
